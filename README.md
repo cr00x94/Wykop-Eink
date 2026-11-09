@@ -21,19 +21,6 @@ The application focuses on readability, simplicity, and a distraction-free exper
 
 Unlike traditional mobile applications, Wykop EInk prioritizes text and minimizes unnecessary visual elements.
 
-## Screenshots
-
-<p align="center">
-  <em>Screenshots coming soon.</em>
-</p>
-
-<!-- Add screenshots here:
-<p align="center">
-  <img src="screenshots/home.png" width="30%" alt="Home screen">
-  <img src="screenshots/microblog.png" width="30%" alt="Microblog">
-  <img src="screenshots/reader.png" width="30%" alt="Article reader">
-</p>
--->
 
 ## Features
 
